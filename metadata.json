@@ -1,0 +1,5 @@
+{
+  "name": "ProjectFlow - Project Management Dashboard",
+  "description": "A visually appealing project management website to track multiple projects with both list and Gantt chart views. Includes a full-screen mode for detailed Gantt chart analysis.",
+  "requestFramePermissions": []
+}
